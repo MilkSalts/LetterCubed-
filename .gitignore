@@ -1,0 +1,17 @@
+# Maven
+/target/
+*.class
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# SQLite / app data
+*.db
+lettercubed.db
+
+# OS
+.DS_Store
+Thumbs.db
